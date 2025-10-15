@@ -25,7 +25,15 @@ I’m currently studying Systems Analysis and Development and working as a Sales
 
   <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white"/>
+  <img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img alt="Django" src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+
+  <img alt="Databases" src="https://img.shields.io/badge/-MySQL%20%7C%20MongoDB-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
   <img alt="VSCode" src="https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </div>
 
@@ -55,16 +63,5 @@ I’m currently studying Systems Analysis and Development and working as a Sales
   <a href="mailto:matheusrabeloskat@gmail.com"><img src="https://img.shields.io/badge/Email-matheusrabeloskat@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/matheus-rabelo-javier-lopez/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </div>
-
----
-
-<div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHg5MnNtdDQ3cnc2bGJvZjRyc2ptdjVqc2k0OGM4aDFkYnF1dmJ2ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9ssDWl7DA5XGbIY8OB/giphy.gif" width="150" alt="keep coding"/>
-</div>
-
----
-
-### ⚡ Fun Fact
-> “Coding isn’t just about writing code — it’s creating art with logic and coffee lol!” ☕💻
 
 ---

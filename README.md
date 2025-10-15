@@ -1,5 +1,5 @@
-# 👋 Olá, eu sou o Matheus Rabelo!
-**`Desenvolvedor back-end`**
+# 👋 Hello, I'm Matheus Rabelo!
+**`Back-End Developer`**
 
 <div align="center">
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200" alt="coding gif"/>
@@ -7,21 +7,21 @@
 
 ---
 
-### 🚀 Sobre mim
-Sou um dev Full Stack em formação, ainda sigo em aprendizado ,estou com 23 anos.  
-Com experiência basica em JavaScript, TypeScript, Python , Html , CSS , Node.js, React e MYSQL  , estou sempre na pegada de aprender e construir soluções que impactam.  
+### 🚀 About Me
+I’m a Full Stack developer in training, still learning and improving my skills — I’m 23 years old.  
+With basic experience in JavaScript, TypeScript, Python, HTML, CSS, Node.js, React, and MySQL, I’m always driven to learn and build impactful solutions.  
 
-Atualmente curso Análise e Desenvolvimento de Sistemas e trabalho como consultor de vendas na Claro, buscando migrar para a área de tecnologia e construir uma carreira sólida.
+I’m currently studying Systems Analysis and Development and working as a Sales Consultant at Claro, seeking to transition into the tech field and build a solid career.
 
 ---
 
-### 🛠 Tecnologias & Ferramentas
+### 🛠 Skills & Tools
 
 <div align="center">
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 
   <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
@@ -31,25 +31,25 @@ Atualmente curso Análise e Desenvolvimento de Sistemas e trabalho como consulto
 
 ---
 
-### 🎯 Projetos em destaque
+### 🎯 Featured Projects
 
-| Projeto                   | Descrição                                    | Link                                     |
-|--------------------------|----------------------------------------------|------------------------------------------|
-| 💻 [Site: Cantinho do Sabor](https://sites.google.com/view/cantinho-do-sabor-osasco/in%C3%ADcio) | Site feito para projeto de cantina estudantil, focado em experiência e usabilidade. | [Acessar](https://sites.google.com/view/cantinho-do-sabor-osasco/in%C3%ADcio) |
-| 📋 [Questionário em JS](https://github.com/eaerabelo/questionario-js)        | Formulário interativo com validação e mensagens dinâmicas em JavaScript. | [GitHub](https://github.com/eaerabelo/questionario-js) |
-| 🚀 [Projeto Full Stack Udemy](https://github.com/eaerabelo/fullstack-udemy)  | Projetos variados para aprender Node, React, Redux, padrões de projeto e mais. | [GitHub](https://github.com/eaerabelo/fullstack-udemy) |
-
----
-
-### 📚 Atualmente estudando
-- Desenvolvimento Full Stack: JavaScript, TypeScript, Node.js, React, Redux  
-- Design Patterns e boas práticas de código  
-- Banco de dados MySQL (MongoDB)  
-- Automação e inteligência artificial (explorando)  
+| Project | Description | Link |
+|----------|--------------|------|
+| 💻 [Website: Cantinho do Sabor](https://sites.google.com/view/cantinho-do-sabor-osasco/in%C3%ADcio) | Website created for a student cafeteria project, focused on experience and usability. | [Access](https://sites.google.com/view/cantinho-do-sabor-osasco/in%C3%ADcio) |
+| 📋 [JS Questionnaire](https://github.com/eaerabelo/questionario-js) | Interactive form with validation and dynamic JavaScript messages. | [GitHub](https://github.com/eaerabelo/questionario-js) |
+| 🚀 [Full Stack Udemy Project](https://github.com/eaerabelo/fullstack-udemy) | Various projects to learn Node, React, Redux, design patterns, and more. | [GitHub](https://github.com/eaerabelo/fullstack-udemy) |
 
 ---
 
-### 📫 Como me achar?
+### 📚 Currently Learning
+- Full Stack Development: JavaScript, TypeScript, Node.js, React, Redux  
+- Design Patterns and clean code practices  
+- Databases: MySQL (exploring MongoDB)  
+- Automation and Artificial Intelligence (exploring)  
+
+---
+
+### 📫 How to Reach Me
 
 <div align="center">
   <a href="mailto:matheusrabeloskat@gmail.com"><img src="https://img.shields.io/badge/Email-matheusrabeloskat@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -64,8 +64,7 @@ Atualmente curso Análise e Desenvolvimento de Sistemas e trabalho como consulto
 
 ---
 
-### ⚡ Curiosidade
-> “Programar não é só escrever código, é criar arte com lógica e café kkk!” ☕💻
+### ⚡ Fun Fact
+> “Coding isn’t just about writing code — it’s creating art with logic and coffee lol!” ☕💻
 
 ---
-

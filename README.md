@@ -1,5 +1,5 @@
-# 👋 Hello, I'm Matheus Rabelo!
-**`Back-End Developer`**
+# 👋 Hi there, I'm Matheus Rabelo!
+**`Full Stack Developer`**
 
 <div align="center">
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200" alt="coding gif"/>
@@ -8,55 +8,54 @@
 ---
 
 ### 🚀 About Me
-I’m a Full Stack developer in training, still learning and improving my skills — I’m 23 years old.  
-With basic experience in JavaScript, TypeScript, Python, HTML, CSS, Node.js, React, and MySQL, I’m always driven to learn and build impactful solutions.  
+I'm a Full Stack Developer with a unique background in commercial operations. Currently working as a Sales Consultant at Claro and studying Systems Analysis and Development, **I leverage my hands-on business experience to build software that solves real-world operational bottlenecks.**
 
-I’m currently studying Systems Analysis and Development and working as a Sales Consultant at Claro, seeking to transition into the tech field and build a solid career.
+I specialize in building real-time, scalable Web Applications using the JavaScript/TypeScript ecosystem. I'm passionate about automation, clean code, and creating tools that boost team productivity.
 
 ---
 
-### 🛠 Skills & Tools
+### 🛠 Skills & Technologies
 
 <div align="center">
+  <!-- Core -->
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img alt="Java" src="https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img alt="Spring Boot" src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
   <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
   <br>
-  <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  <img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white"/>
-  <img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+  <!-- Data & Real-Time -->
+  <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img alt="Socket.io" src="https://img.shields.io/badge/-Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white"/>
+  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <br>
+  <!-- Others / Learning -->
+  <img alt="Java" src="https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img alt="Django" src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img alt="Databases" src="https://img.shields.io/badge/-MySQL%20%7C%20MongoDB-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img alt="VSCode" src="https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </div>
 
 ---
 
 ### 🎯 Featured Projects
 
-| Project | Description | Link |
+| Project | Description | Tech Stack |
 |----------|--------------|------|
-| 💻 [Website: Cantinho do Sabor](https://sites.google.com/view/cantinho-do-sabor-osasco/in%C3%ADcio) | Website created for a student cafeteria project, focused on experience and usability. | [Access](https://sites.google.com/view/cantinho-do-sabor-osasco/in%C3%ADcio) |
-| 📋 [JS Questionnaire](https://github.com/eaerabelo/questionario-js) | Interactive form with validation and dynamic JavaScript messages. | [GitHub](https://github.com/eaerabelo/questionario-js) |
-| 🚀 [Full Stack Udemy Project](https://github.com/eaerabelo/fullstack-udemy) | Various projects to learn Node, React, Redux, design patterns, and more. | [GitHub](https://github.com/eaerabelo/fullstack-udemy) |
+| 🏆 **Painel de Gestão Claro** | A robust **Multi-Tenant SPA** built to manage sales, goals, shifts, and inventory for telecom stores. Features include **Real-Time Data Sync** (WebSockets), **Gemini AI Integration** for sales arguments, automated WhatsApp reporting, and a custom Role-Based Access Control (RBAC) security layer. | `React`, `Node.js`, `Firebase`, `Socket.io`, `Tailwind` |
+| 📋 **JS Questionnaire** | Interactive form with complex validations and dynamic DOM manipulation. | `JavaScript`, `HTML5`, `CSS3` |
+| 🚀 **Full Stack Udemy Journey** | A collection of projects exploring Node.js APIs, React, Redux, and Design Patterns. | `Node.js`, `React`, `Express` |
 
 ---
 
-### 📚 Currently Learning
-- Full Stack Development: JavaScript, TypeScript, Node.js, React, Redux  
-- Design Patterns and clean code practices  
-- Databases: MySQL (exploring MongoDB)  
-- Automation and Artificial Intelligence (exploring)  
+### 📚 Currently Exploring
+- Advanced Serverless Architectures & Microservices.
+- Integrating Generative AI (LLMs) into commercial workflows.
+- Caching strategies and API optimization.
 
 ---
 
-### 📫 How to Reach Me
+### 📫 Let's Connect!
 
 <div align="center">
   <a href="mailto:matheusrabeloskat@gmail.com"><img src="https://img.shields.io/badge/Email-matheusrabeloskat@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
